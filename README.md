@@ -1,2 +1,2 @@
 # madsailor.github.io
-Personal Homepage
+A Personal Homepage based on the [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) template by [Start Bootstrap](http://startbootstrap.com/).
